@@ -45,5 +45,5 @@ Some things which you might want to do with ocaml-libvirt:
 flags: light-uninstall
 url {
   src: "https://download.libvirt.org/ocaml/ocaml-libvirt-0.6.1.7.tar.gz"
-  checksum: "md5=21dd39d51303721cc8bac510a599fd77"
+  checksum: "md5=6fb9d519c44d63513723a728c2ef5f40"
 }
